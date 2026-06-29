@@ -1,4 +1,4 @@
-# ZeeLy Realty
+# Real Estate Landing Page
 
 A modern, mobile-first real estate landing page built with **Next.js 14** (App Router). Luxury real estate meets modern proptech — deep green & gold palette, Playfair Display headings, smooth-scroll animations, fully responsive.
 
@@ -79,6 +79,3 @@ npm run preview
 - **Listings / testimonials / categories** — data lives at the top of `app/page.js` as plain arrays
 - **Hero image** — change the URL inside the `.hero-bg` rule in `globals.css`
 
-## License
-
-MIT
